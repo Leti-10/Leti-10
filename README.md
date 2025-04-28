@@ -50,7 +50,7 @@
 
 <div align="center">
   <img src="Imagens/3nRF.gif" height="50"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,html,canva,css,figma,git,github,idea,java,jira,excel,ollama,maven,jax,mysql" height="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,html,canva,css,figma,git,github,idea,java,jira,excel,ollama,maven,jax,mysql" height="40"/>
   <img src="Imagens/3nRF.gif" height="50"/>
 </div>
 
