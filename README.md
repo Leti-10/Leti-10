@@ -8,7 +8,7 @@
   <br />
   <br />
   <p>
-       ִ⋆.˚✮🐇✮˚.⋆ <img style="height: 30px;" src="Imagens/eu sou.png"/> ִ⋆.˚✮🐇✮˚.⋆ 
+       ִ⋆.˚✮🐇✮˚.⋆ <img style="height: 40px;" src="Imagens/eu sou.png"/> ִ⋆.˚✮🐇✮˚.⋆ 
   </p> 
 </div>
 
