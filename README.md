@@ -1,13 +1,15 @@
 
 <div align="center">
-    <img src="Imagens/6nr.gif" height="50"/>
+    
   <img src="Imagens/Bem vindo.png" style="max-width: 100%;" alt="Bem vindes!!!" />
-    <img src="Imagens/6nr.gif" height="50"/>
   <br />  
   <br />
   <img height="" alt="Sou a Leti e graphic design is my passion" src="Imagens/oiiiii.gif"/>
   <br />
   <br />
+  <p>
+       ִ⋆.˚✮🐇✮˚.⋆ <img style="height: 30px;" src="Imagens/eu sou.png"/> ִ⋆.˚✮🐇✮˚.⋆ 
+  </p> 
 </div>
 
 
@@ -42,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/LeticiaLopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leti-10&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leti-10&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=cobalt"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leti-10&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=aura"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leti-10&theme=aura">
 </div>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
@@ -65,6 +67,26 @@
   <a href="hwww.linkedin.com/in/leticia-lopes-037737325" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src="Imagens/MXfm.gif" alt="pc" height='40'/>
   <br><br>
+
+  <div align="center">
+      
+  <img src="Imagens/6nr.gif" height="50"/>
+  <br />
+  <img src="Imagens/projetos.png" alt="projetos!!!!!!!!"/>
+  <br />
+  <img src="Imagens/6nr.gif" height="50"/>
+  &nbsp;&nbsp;    
+  
+  
+      
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2&theme=aura)](https://github.com/SPACELINE-API/API_Semestre2) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=Metodologia-Scrumd&theme=aura)](https://github.com/SPACELINE-API/Metodologia-Scrum)
+   <div/>
+
+   <div align="center">
+       
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leti-10&theme=radical)](https://github.com/Leti-10/Leti-10)
+       
+   </div>
 
 
 
