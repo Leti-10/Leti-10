@@ -70,7 +70,7 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="Imagens/tchauuuu.gif" />
   <br />
   <img src="Imagens/6nr.gif" height="25"/>
-  ![Visitor Count](https://profile-counter.glitch.me/Leti-10/count.svg)
+  ![Visitors](https://profile-counter.glitch.me/Leti-10/count.svg)
   <img src="Imagens/6nr.gif" height="25"/>
 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
