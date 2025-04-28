@@ -1,7 +1,9 @@
 
 <div align="center">
+    <img src="Imagens/6nr.gif" height="50"/>
   <img src="Imagens/Bem vindo.png" style="max-width: 100%;" alt="Bem vindes!!!" />
-  <br />
+    <img src="Imagens/6nr.gif" height="50"/>
+  <br />  
   <br />
   <img height="" alt="Sou a Leti e graphic design is my passion" src="Imagens/oiiiii.gif"/>
   <br />
@@ -40,10 +42,10 @@
 
 <div align="center">
   <a href="https://github.com/LeticiaLopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leti-10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leti-10&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leti-10&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leti-10&theme=radical">
 </div>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
@@ -68,12 +70,7 @@
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="Imagens/tchauuuu.gif" />
-  <br />
-  <img src="Imagens/6nr.gif" height="25"/>
-  ![Visitors](https://profile-counter.glitch.me/Leti-10/count.svg)
-  <img src="Imagens/6nr.gif" height="25"/>
-
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <br />  
 
   <img src="Imagens/1zfr.gif" alt="clippy!!!!" height='40'/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
