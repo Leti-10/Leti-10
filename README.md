@@ -8,7 +8,7 @@
   <br />
   <br />
   <p>
-       ִ⋆.˚✮🐇✮˚.⋆ <img style="height: 40px;" src="Imagens/eu sou.png"/> ִ⋆.˚✮🐇✮˚.⋆ 
+       ִ⋆.˚✮🐇✮˚.⋆ Eu sou uma etudante de ADS na Fatec de SJC⋆.˚✮🐇✮˚.⋆ 
   </p> 
 </div>
 
@@ -60,11 +60,14 @@
 
 ---
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block;" align="center">
   <img src="Imagens/MXfm.gif" alt="pc" height='40'/>
   <a href="[https://www.instagram.com//](https://www.instagram.com/leticia_e_lopes?igsh=ZDVhZ3JyY25jeXZs)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:Leti.oli.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="hwww.linkedin.com/in/leticia-lopes-037737325" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Leti-10/leti-10.github.io/blob/main/imagens/Currículo1.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-990000?style=for-the-badge&logoSize=auto" target="_blank"></a>
+
+    
   <img src="Imagens/MXfm.gif" alt="pc" height='40'/>
   <br><br>
 
@@ -75,11 +78,11 @@
   <img src="Imagens/projetos.png" alt="projetos!!!!!!!!"/>
   <br />
   <img src="Imagens/6nr.gif" height="50"/>
-  &nbsp;&nbsp;    
-  
+  <br />
+  <br />
   
       
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2&theme=aura)](https://github.com/SPACELINE-API/API_Semestre2) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=Metodologia-Scrumd&theme=aura)](https://github.com/SPACELINE-API/Metodologia-Scrum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=Metodologia-Scrum&theme=aura)](https://github.com/SPACELINE-API/Metodologia-Scrum) &nbsp;  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2&theme=aura)](https://github.com/SPACELINE-API/API_Semestre2)
    <div/>
 
    <div align="center">
