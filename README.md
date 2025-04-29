@@ -62,9 +62,9 @@
 
 <div style="display: inline_block;" align="center">
   <img src="Imagens/MXfm.gif" alt="pc" height='40'/>
-  <a href="[https://www.instagram.com//](https://www.instagram.com/leticia_e_lopes?igsh=ZDVhZ3JyY25jeXZs)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Leti.oli.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hwww.linkedin.com/in/leticia-lopes-037737325" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="(https://www.instagram.com/leticia_e_lopes?igsh=ZDVhZ3JyY25jeXZs)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leti.oli.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticia-lopes-037737325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Leti-10/leti-10.github.io/blob/main/imagens/Currículo1.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-990000?style=for-the-badge&logoSize=auto" target="_blank"></a>
 
     
