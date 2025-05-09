@@ -97,12 +97,18 @@
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="Imagens/tchauuuu.gif" />
+
+   <div>
+    <img src="https://profile-counter.deno.dev/meu-repo/count.svg" alt="Meu profile do git Visitor's Count" />
+   </div>
+    
   <br />  
 
   <img src="Imagens/1zfr.gif" alt="clippy!!!!" height='40'/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="Imagens/IfAi.gif" alt="ad" height="30" />
   <img src="Imagens/WgiA.gif" alt="Microsoft Internet Explorer" height='30' />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="Imagens/45RT.gif" alt="kirby" height="40" />
   
 </div>
