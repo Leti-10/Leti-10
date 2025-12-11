@@ -43,7 +43,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 
 <div align="center">
-  <a href="https://github.com/LeticiaLopes">
+  <a href="https://github.com/Leti-10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leti-10&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=aura"/>
